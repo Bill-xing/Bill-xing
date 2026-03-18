@@ -7,6 +7,3 @@
 <p align="center">
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Bill-xing&theme=github-compact&hide_border=true&area=true" />
 </p>
-<!-- <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p> -->
