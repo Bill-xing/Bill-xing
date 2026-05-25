@@ -1,20 +1,12 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=Jianming%20Xing&fontSize=64&fontAlign=50&fontAlignY=35&desc=Embodied%20AI%20%7C%20Robotics%20Software%20%7C%20ROS2%20%26%20VLA&descAlign=50&descSize=20&descAlignY=58&animation=twinkling" alt="Jianming Xing - Embodied AI, Robotics Software, ROS2 and VLA" />
-</p>
+<h1 align="center">Jianming Xing / 邢鉴明</h1>
 
-<h2 align="center">Hi, I'm Jianming Xing / 邢鉴明</h2>
+<h3 align="center">Embodied AI · Robotics Software · ROS2 · VLA/OpenPI</h3>
 
 <p align="center">
   <a href="https://bill-xing.github.io">Personal Website</a> ·
   <a href="https://bill-xing.github.io/assets/pdf/Xingjianming_s_CV.pdf">English CV</a> ·
   <a href="https://bill-xing.github.io/assets/pdf/CV_%E9%82%A2%E9%89%B4%E6%98%8E.pdf">中文简历</a> ·
   <a href="mailto:bill.xjm@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bill-xing&style=flat-square&color=0e75b6" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Embodied%20AI%20%26%20Robotics-1f6feb?style=flat-square" alt="Focus: Embodied AI and Robotics" />
-  <img src="https://img.shields.io/badge/Location-Shenzhen%2C%20China-2ea44f?style=flat-square" alt="Location: Shenzhen, China" />
 </p>
 
 ## About
@@ -42,15 +34,11 @@ My work focuses on **embodied AI and robotics software**, especially real-robot 
 
 ## Selected Repositories
 
-<p>
-  <a href="https://github.com/Bill-xing/openpicr5"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bill-xing&repo=openpicr5&theme=transparent&hide_border=true" alt="openpicr5" /></a>
-  <a href="https://github.com/Bill-xing/HMI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bill-xing&repo=HMI&theme=transparent&hide_border=true" alt="HMI" /></a>
-</p>
-
-<p>
-  <a href="https://github.com/Bill-xing/DOBOT_6Axis_ROS2_V3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bill-xing&repo=DOBOT_6Axis_ROS2_V3&theme=transparent&hide_border=true" alt="DOBOT_6Axis_ROS2_V3" /></a>
-  <a href="https://github.com/Bill-xing/ros2_ws_xing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bill-xing&repo=ros2_ws_xing&theme=transparent&hide_border=true" alt="ros2_ws_xing" /></a>
-</p>
+- [openpicr5](https://github.com/Bill-xing/openpicr5): CR5 VLA/OpenPI adaptation, data collection, dataset conversion, and inference client.
+- [HMI](https://github.com/Bill-xing/HMI): C++/Qt robot upper-computer system for weld-seam recognition and digital-twin visualization.
+- [DOBOT_6Axis_ROS2_V3](https://github.com/Bill-xing/DOBOT_6Axis_ROS2_V3): ROS2 integration work around Dobot 6-axis robot control.
+- [ros2_ws_xing](https://github.com/Bill-xing/ros2_ws_xing): ROS2 workspace for camera/robot recording and synchronization experiments.
+- [MotrixLab](https://github.com/Bill-xing/MotrixLab): MotrixLab/Isaac Lab migration work for quadruped navigation and RL environments.
 
 ## Experience
 
@@ -66,10 +54,3 @@ My work focuses on **embodied AI and robotics software**, especially real-robot 
 | Interfaces and Visualization | Qt, OpenGL, desktop robot HMIs, digital twins |
 | Engineering | Git, CMake, data validation, regression tests |
 | Language | TOEFL 93, CET-4, CET-6 |
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bill-xing&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" alt="Bill-xing GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bill-xing&layout=compact&theme=transparent&hide_border=true" alt="Bill-xing top languages" />
-</p>
