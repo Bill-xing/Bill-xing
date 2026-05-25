@@ -15,8 +15,6 @@ I am pursuing a second bachelor's degree in **Computer Science and Technology** 
 
 My work focuses on **embodied AI and robotics software**, especially real-robot VLA/OpenPI adaptation, ROS2 systems, robot data collection, computer vision, and desktop HMIs for robot control and visualization. I am interested in learning-based manipulation systems that move cleanly from data collection to safe real-machine deployment.
 
-我目前关注具身智能与机器人软件工程，希望把学习型机器人操作系统从数据采集、模型适配推进到可验证的真机部署。
-
 ## Current Focus
 
 - Real-robot VLA/OpenPI pipelines: teleoperation, synchronized data recording, LeRobot dataset conversion, policy serving, and robot-side inference.
